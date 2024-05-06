@@ -12,7 +12,7 @@ This script allows you to download the transcripts of YouTube videos either indi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/LuxuryTimepiece/YouTubeTranscriptDownloader.git
    ```
 
 2. Install the required dependencies:
@@ -26,7 +26,7 @@ This script allows you to download the transcripts of YouTube videos either indi
 1. Run the script:
 
    ```bash
-   python youtube_transcript_downloader.py
+   python YouTubeTranscriptDownloader.py
    ```
 
 2. Enter the YouTube video ID or playlist URL when prompted.
